@@ -67,7 +67,7 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: Computer Certificate
+    - degree: Computer Science Certificate
       university: Udemy
       time: 2019 - Now
       details: |
@@ -80,9 +80,9 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Data Scientist
+      time: July.2018 - Present
+      company: Startup , Beijing
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -93,11 +93,12 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Bullet point
+        - Bullet point
+
+    - role: Data Analyst Intern
+      time: Sept.2017 - May.2018
+      company: China Duty Free Group Co.,Ltd.
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -106,9 +107,10 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
+
+    - role: Audit Analyst Intern
       time: 2012 - 2014
-      company: Amazon, London
+      company: China Construction Bank, Xi'an
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -117,6 +119,7 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
+
 projects:
     title: Projects
     intro: >
@@ -171,7 +174,7 @@ skills:
 
     toolset:
       - name: Stats
-        level: 10%
+        level: 80%
 
       - name: Python
         level: 50%
